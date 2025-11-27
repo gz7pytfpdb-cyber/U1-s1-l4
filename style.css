@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+html,
+body {
+  background-image: url("./assets l4/immagini/sfondo.png");
+  margin: 0;
+  padding: 0;
+}
+main {
+  margin: 16px;
+  padding: 10px;
+  background-color: white;
+}
+header ul {
+  margin: 16px;
+  text-align: center;
+  list-style-type: none;
+}
+header {
+  text-align: center;
+  background-color: #05bbed;
+}
+.box {
+  box-shadow: 5px 5px 15px;
+}
+footer {
+  text-align: center;
+  background-color: rgb(83, 77, 77);
+  margin-bottom: 10px;
+  margin: 16px;
+}
