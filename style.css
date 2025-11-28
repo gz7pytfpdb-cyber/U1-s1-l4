@@ -6,7 +6,9 @@ body {
   background-image: url("./assets l4/immagini/sfondo.png");
   margin: 0;
   padding: 0;
+  object-position: 50px 50px;
 }
+
 main {
   margin: 16px;
   padding: 10px;
